@@ -1,4 +1,4 @@
-# CRUD con PHP y MySQL Hennys 🐘
+# CRUD con PHP y MySQL  🐘
 
 Este es un CRUD que creé con PHP y MySQL.
 Creada para el tutorial de CRUD con PHP y MySQL en mi canal de Youtube.
